@@ -1,1 +1,1 @@
-# myfirstdjangoproject
+# education_website
